@@ -11,3 +11,13 @@ http://maven.apache.org/download.cgi
 
 ## Travis Test and deploy 
 https://travis-ci.org/
+
+
+
+maven commands
+https://www.youtube.com/results?search_query=maven+commands
+ 
+Maven in 5 Minutes
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+ 
